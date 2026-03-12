@@ -1,6 +1,7 @@
 # LAB 03 : Inconsistent security controls
 
 **Đề bài :**
+
 <img width="895" height="85" alt="image" src="https://github.com/user-attachments/assets/bdcb9ce3-7fe1-4071-a148-308ce5a952eb" />
 
 - Để giải bài thực hành, chúng ta cần truy cập vào bảng quản trị và xóa người dùng carlos.
